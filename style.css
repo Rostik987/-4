@@ -1,0 +1,63 @@
+.hero {
+    background-image:url(./depositphotos_102621492-stock-photo-group-of-friends-taking-a.jpg);
+    height: 1000px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    padding-top: ;
+    padding-left: ;
+}
+
+.were {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 24px;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   color: #FFFFFF;
+}
+
+.der {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center; 
+}
+
+.was {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    height: 17px;
+     align-items: flex-end;
+     color: #FFFFFF;
+}
+
+.wasnt {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    height: 17px;
+     align-items: flex-end;
+     color: #FFFFFF;
+}
+
+.wernt {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center; 
+}
